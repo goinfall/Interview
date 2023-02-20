@@ -9,10 +9,10 @@ import lombok.Setter;
 import java.util.Date;
 
 /**
- * (Test)实体类
+ * user表实体
  *
- * @author makejava
- * @since 2020-03-01 15:17:52
+ * @author 孙忠忠
+ * @since 2022-02-20 16:27:02
  */
 @Getter
 @Setter

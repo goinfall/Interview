@@ -5,10 +5,10 @@ import com.example.entity.User;
 import java.util.List;
 
 /**
- * (User)表服务接口
+ * user表业务逻辑层
  *
  * @author 孙忠忠
- * @since 2022-02-20 16:18:02
+ * @since 2022-02-20 16:23:11
  */
 public interface UserService {
 

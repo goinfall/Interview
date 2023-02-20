@@ -6,10 +6,10 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * (user)表数据库访问层
+ * user dao层
  *
- * @author makejava
- * @since 2020-03-01 15:17:59
+ * @author 孙忠忠
+ * @since 2022-02-20 16:25:34
  */
 public interface UserDao {
 
